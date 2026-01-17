@@ -1,3 +1,6 @@
+// Aaron Shumway | Section 3-3
+// Description: defines a class that simulates rolling two dice a specified
+// number of times and returns an array counting how often each possible total occurs.
 namespace Mission2Dice;
 
 public class DiceRoller

@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+// Aaron Shumway | Section 3-3
+// Description: Simulate rolling dice and show how often each number is rolled
 using Mission2Dice;
 
 Console.WriteLine("Welcome to the dice rolling game.");
