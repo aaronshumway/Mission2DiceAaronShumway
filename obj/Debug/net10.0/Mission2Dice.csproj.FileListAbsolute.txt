@@ -1,0 +1,14 @@
+/Users/aaronshumway/RiderProjects/Mission2Dice/bin/Debug/net10.0/Mission2Dice
+/Users/aaronshumway/RiderProjects/Mission2Dice/bin/Debug/net10.0/Mission2Dice.deps.json
+/Users/aaronshumway/RiderProjects/Mission2Dice/bin/Debug/net10.0/Mission2Dice.runtimeconfig.json
+/Users/aaronshumway/RiderProjects/Mission2Dice/bin/Debug/net10.0/Mission2Dice.dll
+/Users/aaronshumway/RiderProjects/Mission2Dice/bin/Debug/net10.0/Mission2Dice.pdb
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.AssemblyInfoInputs.cache
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.AssemblyInfo.cs
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.csproj.CoreCompileInputs.cache
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.dll
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/refint/Mission2Dice.dll
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.pdb
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/Mission2Dice.genruntimeconfig.cache
+/Users/aaronshumway/RiderProjects/Mission2Dice/obj/Debug/net10.0/ref/Mission2Dice.dll

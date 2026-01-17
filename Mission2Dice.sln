@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mission2Dice", "Mission2Dice.csproj", "{B77C5F3A-4611-41E6-9842-75A7103110DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B77C5F3A-4611-41E6-9842-75A7103110DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77C5F3A-4611-41E6-9842-75A7103110DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77C5F3A-4611-41E6-9842-75A7103110DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77C5F3A-4611-41E6-9842-75A7103110DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
